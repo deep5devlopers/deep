@@ -14,10 +14,10 @@ A curated ecosystem of **7 production-ready applications**, developer tools, and
 | ⚡ Active | **Ongrow** | AI Conversational Pipelines | LLMs, Vector DB, WhatsApp/Slack API | Intelligent customer escalation & multi-turn conversational agents |
 
 ### 🔄 Recent Project Updates (5-Min Auto-Sync)
+- **Project Updated:** `Deramine` — `[bug]` Fixed timestamp timezone offset in rolling 24-hour anomaly window
 - **Project Updated:** `Deramine` — `[bug]` Resolved DuckDB locked database error during concurrent worker writes
 - **Project Updated:** `Ongrow` — `[beta tested]` Beta-tested human-in-the-loop escalation dashboard in staging
 - **Project Updated:** `Pixelbyte` — `[beta tested]` Staging load test verified zero dropped frames under peak load
 - **Project Updated:** `Pixelbyte` — `[bug]` Resolved precision truncation on 18-decimal token pair calculations
-- **Project Updated:** `Deramine` — `[issues]` Resolved query execution bottleneck on 10M+ telemetry point tables
 
 <!-- END_SECTION:ai_readme -->
