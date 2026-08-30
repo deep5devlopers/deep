@@ -14,10 +14,10 @@ A curated ecosystem of **7 production-ready applications**, developer tools, and
 | ⚡ Active | **Ongrow** | AI Conversational Pipelines | LLMs, Vector DB, WhatsApp/Slack API | Intelligent customer escalation & multi-turn conversational agents |
 
 ### 🔄 Recent Project Updates (5-Min Auto-Sync)
+- **Project Updated:** `Ongrow` — `[feature]` Integrated WhatsApp Business API and Slack webhook escalation routing
 - **Project Updated:** `Deramine` — `[bug]` Fixed division by zero error in standard deviation calculations for flat streams
 - **Project Updated:** `Grexon AI` — `[bug]` Resolved token count calculation mismatch on multi-turn chat sessions
 - **Project Updated:** `DeepCode AI` — `[beta tested]` Beta-tested in-browser collaborative workspace with WebRTC
 - **Project Updated:** `Deramine` — `[bug]` Fixed timestamp timezone offset in rolling 24-hour anomaly window
-- **Project Updated:** `Deramine` — `[bug]` Resolved DuckDB locked database error during concurrent worker writes
 
 <!-- END_SECTION:ai_readme -->
