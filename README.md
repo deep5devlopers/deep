@@ -14,10 +14,10 @@ A curated ecosystem of **7 production-ready applications**, developer tools, and
 | ⚡ Active | **Ongrow** | AI Conversational Pipelines | LLMs, Vector DB, WhatsApp/Slack API | Intelligent customer escalation & multi-turn conversational agents |
 
 ### 🔄 Recent Project Updates (5-Min Auto-Sync)
+- **Project Updated:** `Pixelbyte` — `[bug]` Resolved precision truncation on 18-decimal token pair calculations
 - **Project Updated:** `Deramine` — `[bug]` Fixed timestamp timezone offset in rolling 24-hour anomaly window
 - **Project Updated:** `Ongrow` — `[beta tested]` Verified WhatsApp webhook response SLA under 400ms
 - **Project Updated:** `ChamFlow` — `[issues]` Fixed memory fragmentation during multi-hour continuous simulation
 - **Project Updated:** `Pixelbyte` — `[feature]` Implemented high-frequency orderbook delta streaming & depth chart caching
-- **Project Updated:** `Deramine` — `[beta tested]` Validated continuous data ingestion on 3-node staging cluster
 
 <!-- END_SECTION:ai_readme -->
