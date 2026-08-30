@@ -14,10 +14,10 @@ A curated ecosystem of **7 production-ready applications**, developer tools, and
 | ⚡ Active | **Ongrow** | AI Conversational Pipelines | LLMs, Vector DB, WhatsApp/Slack API | Intelligent customer escalation & multi-turn conversational agents |
 
 ### 🔄 Recent Project Updates (5-Min Auto-Sync)
+- **Project Updated:** `Deramine` — `[beta tested]` Validated continuous data ingestion on 3-node staging cluster
 - **Project Updated:** `Ongrow` — `[issues]` Addressed token budget overrun during lengthy multi-turn conversations
 - **Project Updated:** `Ongrow` — `[bug]` Fixed session timeout expiration logic during active human handoff
 - **Project Updated:** `DeepCode AI` — `[beta tested]` Completed staging validation of Monaco language server protocol proxy
 - **Project Updated:** `DeepCode AI` — `[beta tested]` Verified code completion latency under 30ms in beta channel
-- **Project Updated:** `Pixelbyte` — `[feature]` Added real-time VWAP and volume profile overlay indicators
 
 <!-- END_SECTION:ai_readme -->
