@@ -14,10 +14,10 @@ A curated ecosystem of **7 production-ready applications**, developer tools, and
 | ⚡ Active | **Ongrow** | AI Conversational Pipelines | LLMs, Vector DB, WhatsApp/Slack API | Intelligent customer escalation & multi-turn conversational agents |
 
 ### 🔄 Recent Project Updates (5-Min Auto-Sync)
+- **Project Updated:** `Ongrow` — `[beta tested]` Beta-tested human-in-the-loop escalation dashboard in staging
 - **Project Updated:** `Pixelbyte` — `[beta tested]` Staging load test verified zero dropped frames under peak load
 - **Project Updated:** `Pixelbyte` — `[bug]` Resolved precision truncation on 18-decimal token pair calculations
 - **Project Updated:** `Deramine` — `[issues]` Resolved query execution bottleneck on 10M+ telemetry point tables
 - **Project Updated:** `Deramine` — `[bug]` Fixed division by zero error in standard deviation calculations for flat streams
-- **Project Updated:** `ChamFlow` — `[issues]` Fixed memory fragmentation during multi-hour continuous simulation
 
 <!-- END_SECTION:ai_readme -->
