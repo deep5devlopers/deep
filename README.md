@@ -15,10 +15,10 @@ A curated ecosystem of **8 production-ready applications**, developer tools, and
 | ⚡ Dev | **Deramine** | Logistics / Port Intelligence | Python, DuckDB, Container Analytics, Recharts | Data intelligence for ports and container operations |
 
 ### 🔄 Recent Project Updates
+- **Project Updated:** `Ongrow` — `[beta tested]` Beta-tested human-in-the-loop escalation dashboard in staging
 - **Project Updated:** `Algoline` — `[feature]` Added conditional branching, loops, and parallel agent execution blocks
 - **Project Updated:** `Deramine` — `[bug]` Fixed timestamp timezone offset in rolling 24-hour container dwell window
 - **Project Updated:** `Smallbox` — `[feature]` Added schema.org structured JSON-LD snippet validator and analyzer
 - **Project Updated:** `Drew-55` — `[issues]` Optimized change stream processing throughput to 25,000 events/second
-- **Project Updated:** `Drew-55` — `[feature]` Added automated AI workflow dispatcher triggered by state transitions
 
 <!-- END_SECTION:ai_readme -->
