@@ -14,10 +14,10 @@ A curated ecosystem of **7 production-ready applications**, developer tools, and
 | ⚡ Active | **Ongrow** | AI Conversational Pipelines | LLMs, Vector DB, WhatsApp/Slack API | Intelligent customer escalation & multi-turn conversational agents |
 
 ### 🔄 Recent Project Updates (5-Min Auto-Sync)
+- **Project Updated:** `Pixelbyte` — `[beta tested]` Verified orderbook depth visualizer on iOS Safari & Chrome Android
 - **Project Updated:** `Deramine` — `[testing]` Passed high-throughput 50k events/sec telemetry ingestion benchmark
 - **Project Updated:** `Grexon AI` — `[issues]` Fixed timeout handling on external webhook triggers
 - **Project Updated:** `Ongrow` — `[testing]` Executed 11/11 automated assertions on intent classification engine
 - **Project Updated:** `SmallBox` — `[issues]` Fixed crawling rate limit error when auditing rate-sensitive domains
-- **Project Updated:** `Grexon AI` — `[bug]` Fixed premature stream closure on long-form code generation requests
 
 <!-- END_SECTION:ai_readme -->
