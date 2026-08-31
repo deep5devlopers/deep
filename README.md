@@ -15,10 +15,10 @@ A curated ecosystem of **8 production-ready applications**, developer tools, and
 | ⚡ Dev | **Deramine** | Logistics / Port Intelligence | Python, DuckDB, Container Analytics, Recharts | Data intelligence for ports and container operations |
 
 ### 🔄 Recent Project Updates
+- **Project Updated:** `Smallbox` — `[bug]` Fixed regex pattern in robots.txt disallow parser
 - **Project Updated:** `Pixelbyte` — `[issues]` Fixed websocket disconnect on aggressive mobile network idle timeouts
 - **Project Updated:** `Algoline` — `[testing]` Validated topological sorting and cyclical graph rejection algorithms
 - **Project Updated:** `Grexon` — `[beta tested]` Verified QR-code location bootstrap on mobile devices without app installation
 - **Project Updated:** `Smallbox` — `[issues]` Optimized edge SSR cache header policies for sub-15ms audit response times
-- **Project Updated:** `Algoline` — `[bug]` Fixed circular dependency detection bug in nested sub-workflow graphs
 
 <!-- END_SECTION:ai_readme -->
