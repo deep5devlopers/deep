@@ -15,10 +15,10 @@ A curated ecosystem of **8 production-ready applications**, developer tools, and
 | ⚡ Dev | **Deramine** | Logistics / Port Intelligence | Python, DuckDB, Container Analytics, Recharts | Data intelligence for ports and container operations |
 
 ### 🔄 Recent Project Updates (5-Min Auto-Sync)
+- **Project Updated:** `Grexon` — `[feature]` Added dynamic step-by-step turn guidance overlay for mobile browsers
 - **Project Updated:** `Grexon` — `[testing]` Validated Dijkstra and A* graph routing assertions with 100% pass rate
 - **Project Updated:** `Algoline` — `[feature]` Implemented interactive node-based visual workflow builder canvas
 - **Project Updated:** `Pixelbyte` — `[beta tested]` Verified orderbook depth visualizer on iOS Safari & Chrome Android
 - **Project Updated:** `Deramine` — `[testing]` Passed high-throughput 50k events/sec logistics ingestion benchmark
-- **Project Updated:** `Grexon` — `[beta tested]` Beta-tested hospital wing indoor navigation wayfinding in staging
 
 <!-- END_SECTION:ai_readme -->
