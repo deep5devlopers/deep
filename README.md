@@ -15,10 +15,10 @@ A curated ecosystem of **8 production-ready applications**, developer tools, and
 | ⚡ Dev | **Deramine** | Logistics / Port Intelligence | Python, DuckDB, Container Analytics, Recharts | Data intelligence for ports and container operations |
 
 ### 🔄 Recent Project Updates
+- **Project Updated:** `Pixelbyte` — `[bug]` Fixed race condition in orderbook sequence replay during rapid market spikes
 - **Project Updated:** `Grexon` — `[feature]` Implemented WebGL-accelerated 2D/3D indoor floor plan renderer
 - **Project Updated:** `Algoline` — `[beta tested]` Completed staging trial for automated agent flow orchestration
 - **Project Updated:** `Algoline` — `[testing]` Passed 22/22 automated test assertions on graph traversal and execution
 - **Project Updated:** `Ongrow` — `[beta tested]` Beta-tested human-in-the-loop escalation dashboard in staging
-- **Project Updated:** `Algoline` — `[feature]` Added conditional branching, loops, and parallel agent execution blocks
 
 <!-- END_SECTION:ai_readme -->
