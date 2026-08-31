@@ -15,10 +15,10 @@ A curated ecosystem of **8 production-ready applications**, developer tools, and
 | ⚡ Dev | **Deramine** | Logistics / Port Intelligence | Python, DuckDB, Container Analytics, Recharts | Data intelligence for ports and container operations |
 
 ### 🔄 Recent Project Updates
+- **Project Updated:** `Deramine` — `[feature]` Added high-throughput DuckDB analytical query accelerator for terminal logs
 - **Project Updated:** `Pixelbyte` — `[feature]` Implemented high-frequency orderbook delta streaming & depth chart caching
 - **Project Updated:** `Drew-55` — `[testing]` Ran load benchmark: sustained 50k write ops/sec with zero event loss
 - **Project Updated:** `Ongrow` — `[testing]` Validated webhook delivery retry logic and dead-letter queue routing
 - **Project Updated:** `Ongrow` — `[beta tested]` Completed beta trial of web embed widget across 20 staging test sites
-- **Project Updated:** `Deramine` — `[bug]` Fixed division by zero error in standard deviation calculations for flat streams
 
 <!-- END_SECTION:ai_readme -->
