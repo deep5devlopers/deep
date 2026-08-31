@@ -15,10 +15,10 @@ A curated ecosystem of **8 production-ready applications**, developer tools, and
 | ⚡ Dev | **Deramine** | Logistics / Port Intelligence | Python, DuckDB, Container Analytics, Recharts | Data intelligence for ports and container operations |
 
 ### 🔄 Recent Project Updates
+- **Project Updated:** `Drew-55` — `[feature]` Added operational telemetry dashboard with sub-second WebSocket updates
 - **Project Updated:** `Smallbox` — `[testing]` Tested edge worker response latencies across 12 global regions
 - **Project Updated:** `Pixelbyte` — `[beta tested]` Completed beta canary rollout of ultra-low latency WebSocket proxy
 - **Project Updated:** `Algoline` — `[testing]` Passed 22/22 automated test assertions on graph traversal and execution
 - **Project Updated:** `Zerna` — `[testing]` Tested responsive mobile viewport layout across 15 device profiles
-- **Project Updated:** `Pixelbyte` — `[feature]` Added multi-exchange price arbitration feed with sub-millisecond aggregation
 
 <!-- END_SECTION:ai_readme -->
