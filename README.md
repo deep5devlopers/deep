@@ -15,10 +15,10 @@ A curated ecosystem of **8 production-ready applications**, developer tools, and
 | ⚡ Dev | **Deramine** | Logistics / Port Intelligence | Python, DuckDB, Container Analytics, Recharts | Data intelligence for ports and container operations |
 
 ### 🔄 Recent Project Updates
+- **Project Updated:** `Grexon` — `[issues]` Reduced initial indoor map asset bundle load time by 65%
 - **Project Updated:** `Zerna` — `[feature]` Implemented minimalist single-step checkout flow with Razorpay modal
 - **Project Updated:** `Algoline` — `[beta tested]` Completed staging trial for automated agent flow orchestration
 - **Project Updated:** `Deramine` — `[beta tested]` Validated continuous data ingestion on 3-node staging cluster
 - **Project Updated:** `Smallbox` — `[beta tested]` Beta-tested instant SERP rank fluctuation tracker with webhook alerts
-- **Project Updated:** `Ongrow` — `[bug]` Resolved widget iframe resizing issue on mobile Safari viewports
 
 <!-- END_SECTION:ai_readme -->
