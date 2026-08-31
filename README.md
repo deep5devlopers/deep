@@ -15,10 +15,10 @@ A curated ecosystem of **8 production-ready applications**, developer tools, and
 | ⚡ Dev | **Deramine** | Logistics / Port Intelligence | Python, DuckDB, Container Analytics, Recharts | Data intelligence for ports and container operations |
 
 ### 🔄 Recent Project Updates
+- **Project Updated:** `Pixelbyte` — `[feature]` Deployed responsive candle stream renderer using Canvas2D GPU acceleration
 - **Project Updated:** `Deramine` — `[testing]` Validated statistical accuracy of container dwell prediction algorithms
 - **Project Updated:** `Algoline` — `[beta tested]` Verified visual execution debugger with real-time state inspection
 - **Project Updated:** `Grexon` — `[testing]` Tested browser compatibility across Chrome, Safari, Firefox, and Edge
 - **Project Updated:** `Ongrow` — `[feature]` Added custom knowledge base document ingestion with semantic search
-- **Project Updated:** `Pixelbyte` — `[beta tested]` Verified orderbook depth visualizer on iOS Safari & Chrome Android
 
 <!-- END_SECTION:ai_readme -->
