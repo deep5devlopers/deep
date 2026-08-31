@@ -15,10 +15,10 @@ A curated ecosystem of **8 production-ready applications**, developer tools, and
 | ⚡ Dev | **Deramine** | Logistics / Port Intelligence | Python, DuckDB, Container Analytics, Recharts | Data intelligence for ports and container operations |
 
 ### 🔄 Recent Project Updates
+- **Project Updated:** `Zerna` — `[bug]` Fixed cart total rounding discrepancy on coupon code calculations
 - **Project Updated:** `Grexon` — `[testing]` Validated Dijkstra and A* graph routing assertions with 100% pass rate
 - **Project Updated:** `Ongrow` — `[beta tested]` Beta-tested human-in-the-loop escalation dashboard in staging
 - **Project Updated:** `Pixelbyte` — `[testing]` Completed automated end-to-end orderbook streaming benchmark (100k events/sec)
 - **Project Updated:** `Ongrow` — `[issues]` Resolved connection pooling bottleneck on concurrent webhook bursts
-- **Project Updated:** `Ongrow` — `[beta tested]` Beta-tested human-in-the-loop escalation dashboard in staging
 
 <!-- END_SECTION:ai_readme -->
