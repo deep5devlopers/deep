@@ -15,6 +15,7 @@ A curated ecosystem of **8 production-ready applications**, developer tools, and
 | ⚡ Dev | **Deramine** | Logistics / Port Intelligence | Python, DuckDB, Container Analytics, Recharts | Data intelligence for ports and container operations |
 
 ### 🔄 Recent Project Updates
+- **Project Updated:** `Deramine` — `[beta tested]` Beta-tested real-time container gate congestion alerts with webhooks
 - **Project Updated:** `Pixelbyte` — `[beta tested]` Staging load test verified zero dropped frames under peak load
 - **Project Updated:** `Drew-55` — `[feature]` Enabled distributed state machine checkpoints for resilient failure recovery
 
