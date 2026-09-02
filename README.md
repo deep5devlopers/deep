@@ -15,10 +15,6 @@ A curated ecosystem of **8 production-ready applications**, developer tools, and
 | ⚡ Dev | **Deramine** | Logistics / Port Intelligence | Python, DuckDB, Container Analytics, Recharts | Data intelligence for ports and container operations |
 
 ### 🔄 Recent Project Updates
-- **Project Updated:** `Grexon` — `[testing]` Validated Dijkstra and A* graph routing assertions with 100% pass rate
-- **Project Updated:** `Zerna` — `[feature]` Added automated order receipt email template generator
-- **Project Updated:** `Algoline` — `[beta tested]` Completed staging trial for automated agent flow orchestration
-- **Project Updated:** `Deramine` — `[bug]` Fixed timestamp timezone offset in rolling 24-hour container dwell window
-- **Project Updated:** `Drew-55` — `[feature]` Added automated AI workflow dispatcher triggered by state transitions
+- **Project Updated:** `Drew-55` — `[feature]` Enabled distributed state machine checkpoints for resilient failure recovery
 
 <!-- END_SECTION:ai_readme -->
