@@ -15,10 +15,10 @@ A curated ecosystem of **8 production-ready applications**, developer tools, and
 | ⚡ Dev | **Deramine** | Logistics / Port Intelligence | Python, DuckDB, Container Analytics, Recharts | Data intelligence for ports and container operations |
 
 ### 🔄 Recent Project Updates
+- **Project Updated:** `Drew-55` — `[feature]` Added operational telemetry dashboard with sub-second WebSocket updates
 - **Project Updated:** `Drew-55` — `[issues]` Optimized change stream processing throughput to 25,000 events/second
 - **Project Updated:** `Deramine` — `[feature]` Implemented real-time container dwell time predictor and anomaly detector
 - **Project Updated:** `Zerna` — `[beta tested]` Verified Razorpay testnet live payment transactions
 - **Project Updated:** `Pixelbyte` — `[testing]` Ran latency assertion suite: 99th percentile under 12ms
-- **Project Updated:** `Drew-55` — `[testing]` Validated 100% test assertions on state machine transitions
 
 <!-- END_SECTION:ai_readme -->
