@@ -15,10 +15,10 @@ A curated ecosystem of **8 production-ready applications**, developer tools, and
 | ⚡ Dev | **Deramine** | Logistics / Port Intelligence | Python, DuckDB, Container Analytics, Recharts | Data intelligence for ports and container operations |
 
 ### 🔄 Recent Project Updates
+- **Project Updated:** `Pixelbyte` — `[bug]` Fixed WebSocket reconnection backoff timer reset issue
 - **Project Updated:** `Algoline` — `[issues]` Handled tool execution rate limits with automatic jitter backoff
 - **Project Updated:** `Drew-55` — `[testing]` Ran load benchmark: sustained 50k write ops/sec with zero event loss
 - **Project Updated:** `Ongrow` — `[issues]` Resolved connection pooling bottleneck on concurrent webhook bursts
 - **Project Updated:** `Drew-55` — `[issues]` Optimized change stream processing throughput to 25,000 events/second
-- **Project Updated:** `Deramine` — `[bug]` Resolved DuckDB locked database error during concurrent worker writes
 
 <!-- END_SECTION:ai_readme -->
