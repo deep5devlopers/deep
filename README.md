@@ -15,10 +15,10 @@ A curated ecosystem of **8 production-ready applications**, developer tools, and
 | ⚡ Dev | **Deramine** | Logistics / Port Intelligence | Python, DuckDB, Container Analytics, Recharts | Data intelligence for ports and container operations |
 
 ### 🔄 Recent Project Updates
+- **Project Updated:** `Ongrow` — `[testing]` Ran load test: 1,000 concurrent active web widget chat sessions
 - **Project Updated:** `Smallbox` — `[feature]` Enabled automated broken internal link detector with concurrent DOM crawler
 - **Project Updated:** `Pixelbyte` — `[beta tested]` Verified orderbook depth visualizer on iOS Safari & Chrome Android
 - **Project Updated:** `Deramine` — `[issues]` Optimized memory allocation for streaming time-series container window queries
 - **Project Updated:** `Algoline` — `[beta tested]` Beta-tested multi-agent collaboration pipelines in staging environment
-- **Project Updated:** `Zerna` — `[issues]` Resolved database session lock on concurrent checkout requests
 
 <!-- END_SECTION:ai_readme -->
