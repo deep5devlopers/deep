@@ -15,10 +15,10 @@ A curated ecosystem of **8 production-ready applications**, developer tools, and
 | ⚡ Dev | **Deramine** | Logistics / Port Intelligence | Python, DuckDB, Container Analytics, Recharts | Data intelligence for ports and container operations |
 
 ### 🔄 Recent Project Updates
+- **Project Updated:** `Algoline` — `[beta tested]` Beta-tested multi-agent collaboration pipelines in staging environment
 - **Project Updated:** `Zerna` — `[issues]` Resolved database session lock on concurrent checkout requests
 - **Project Updated:** `Zerna` — `[bug]` Fixed pagination offset bug on WooCommerce REST API product fetch
 - **Project Updated:** `Deramine` — `[beta tested]` Beta-tested real-time container gate congestion alerts with webhooks
 - **Project Updated:** `Ongrow` — `[testing]` Ran load test: 1,000 concurrent active web widget chat sessions
-- **Project Updated:** `Grexon` — `[feature]` Implemented WebGL-accelerated 2D/3D indoor floor plan renderer
 
 <!-- END_SECTION:ai_readme -->
