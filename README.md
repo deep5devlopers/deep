@@ -15,10 +15,10 @@ A curated ecosystem of **8 production-ready applications**, developer tools, and
 | ⚡ Dev | **Deramine** | Logistics / Port Intelligence | Python, DuckDB, Container Analytics, Recharts | Data intelligence for ports and container operations |
 
 ### 🔄 Recent Project Updates
+- **Project Updated:** `Smallbox` — `[testing]` Completed 100% assertion suite on SEO metadata extraction engine
 - **Project Updated:** `Pixelbyte` — `[bug]` Fixed WebSocket reconnection backoff timer reset issue
 - **Project Updated:** `Drew-55` — `[beta tested]` Completed staging validation of distributed workflow orchestrator
 - **Project Updated:** `Smallbox` — `[testing]` Executed automated HTML parsing regression tests on 500 sample pages
 - **Project Updated:** `Ongrow` — `[issues]` Addressed token budget overrun during extended conversational dialogues
-- **Project Updated:** `Grexon` — `[feature]` Implemented WebGL-accelerated 2D/3D indoor floor plan renderer
 
 <!-- END_SECTION:ai_readme -->
