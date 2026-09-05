@@ -15,6 +15,7 @@ A curated ecosystem of **8 production-ready applications**, developer tools, and
 | ⚡ Dev | **Deramine** | Logistics / Port Intelligence | Python, DuckDB, Container Analytics, Recharts | Data intelligence for ports and container operations |
 
 ### 🔄 Recent Project Updates
+- **Project Updated:** `Grexon` — `[testing]` Validated Dijkstra and A* graph routing assertions with 100% pass rate
 - **Project Updated:** `Grexon` — `[testing]` Tested browser compatibility across Chrome, Safari, Firefox, and Edge
 - **Project Updated:** `Ongrow` — `[beta tested]` Completed beta trial of web embed widget across 20 staging test sites
 - **Project Updated:** `Ongrow` — `[feature]` Added multi-turn conversational context manager with dynamic slot filling
